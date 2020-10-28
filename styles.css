@@ -324,3 +324,10 @@ body {
     padding: 63px 38px;
   }
 }
+
+@media only screen and (max-width: 375px) {
+  .booking {
+    padding: 63px 21px !important;
+    width: 95% !important;
+  }
+}
